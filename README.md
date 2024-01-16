@@ -1,2 +1,1 @@
-# ping-pong
-max_game
+It's simple game for studen's that we are creating during lessons
